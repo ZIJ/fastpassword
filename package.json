@@ -1,0 +1,12 @@
+{
+  "name": "fastpassword",
+  "version": "0.0.1",
+  "dependencies": {
+    "core-js": "^0.9.14"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-eslint": "^0.13.2"
+  }
+}
