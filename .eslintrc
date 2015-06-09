@@ -7,6 +7,7 @@
     "modules": true
   },
   "rules": {
-    "quotes": "single"
+    "quotes": "single",
+    "no-constant-condition": 0
   }
 }

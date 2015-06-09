@@ -3,7 +3,7 @@ var eslint = require('gulp-eslint');
 var babel = require('gulp-babel');
 
 gulp.task('build', function () {
-    return gulp.src('src/fastpassword.js')
+    return gulp.src('src/**/*.js')
         .pipe(babel())
         .pipe(gulp.dest('dist'));
 });
