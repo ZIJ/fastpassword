@@ -1,6 +1,6 @@
 {
   "name": "fastpassword",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates fast-to-type passwords",
   "keywords": [
     "password",
@@ -27,7 +27,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "filesearch": "cli.js"
+    "filesearch": "dist/cli.js"
   },
   "scripts": {
     "test": "mocha --compilers js:babel/register"
