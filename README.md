@@ -1,5 +1,7 @@
 # Fastpassword
 
+[![Build Status](https://travis-ci.org/ZIJ/fastpassword.svg?branch=master)](https://travis-ci.org/ZIJ/fastpassword)
+
 Command-line utility that generates fast-to-type passwords.
 
 ### Why
