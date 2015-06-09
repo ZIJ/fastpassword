@@ -21,7 +21,7 @@ describe('cache', () => {
             let isIterable = false;
             cache.put(1);
             for (let item of cache) {
-                isIterable = true;
+                isIterable = Boolean(item);
             }
             assert(isIterable);
         });
