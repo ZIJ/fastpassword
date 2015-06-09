@@ -10,5 +10,10 @@ Command-line utility that generates fast-to-type passwords.
 2. I wanted to get hands dirty with ES 2015 features
 
 ### How to use
-Coming soon...
+```
+npm install -g fastpassword
+fastpassword
+fastpassword -l 10 -d 4
+fastpassword -h
+```
 
