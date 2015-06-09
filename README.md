@@ -1,5 +1,6 @@
 # Fastpassword
 
+[![npm version](https://badge.fury.io/js/fastpassword.svg)](http://badge.fury.io/js/fastpassword)
 [![Build Status](https://travis-ci.org/ZIJ/fastpassword.svg?branch=master)](https://travis-ci.org/ZIJ/fastpassword)
 
 Command-line utility that generates fast-to-type passwords.
