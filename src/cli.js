@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import generatePassword from './fastpassword.js';
 
 let argv = require('yargs')

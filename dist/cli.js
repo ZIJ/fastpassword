@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 'use strict';
 
 var _interopRequireDefault = require('babel-runtime/helpers/interop-require-default')['default'];
