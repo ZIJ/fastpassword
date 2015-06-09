@@ -8,6 +8,7 @@
   },
   "rules": {
     "quotes": "single",
-    "no-constant-condition": 0
+    "no-constant-condition": 0,
+    "no-loop-func": 0
   }
 }
