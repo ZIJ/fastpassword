@@ -9,7 +9,7 @@ gulp.task('build', function () {
 });
 
 gulp.task('lint', function () {
-    return gulp.src(['src/**/*.js', 'gulpfile.js'])
+    return gulp.src(['src/**/*.js', 'test/**/*.js', 'gulpfile.js'])
         .pipe(eslint())
         .pipe(eslint.format())
         .pipe(eslint.failOnError());
