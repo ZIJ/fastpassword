@@ -1,8 +1,18 @@
 {
   "name": "fastpassword",
   "version": "0.0.1",
-  "description": "Generator of passwords that are fast to type",
+  "description": "Generates fast-to-type passwords",
+  "keywords": [
+    "password",
+    "generator"
+  ],
   "author": "Igor Zalutsky <igor.zalutsky@gmail.com>",
+  "license": "MIT",
+  "main": "dist/fastpassword.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZIJ/fastpassword"
+  },
   "dependencies": {
     "babel-runtime": "^5.5.6",
     "core-js": "^0.9.14",
