@@ -17,10 +17,9 @@ npm install -g fastpassword
 ```
 
 ### How to use
-* `fastpassword` Simply generate easy-to-type password
+* `fastpassword` Simply generate an easy-to-type password
 * `fastpassword -l 10 -d 4` Generate password of 10 chars with minimum 4 sequent chars guaranteed for different fingers
-* Get help `fastpassword -h`
-* 
+* `fastpassword -h` Help
 
 ### Options
 * `-l` Length of the password
